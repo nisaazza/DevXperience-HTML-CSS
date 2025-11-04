@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Plant 100,000 Mangroves</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Plant 100,000 Mangroves</h1>
+      <nav>
+        <a href="#home">Home</a>
+        <a href="#about">About</a>
+        <a href="#impact">Impact</a>
+        <a href="#how">How It Works</a>
+        <a href="#donate">Donate</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </header>
+
+    <section class="hero" id="home">
+      <div class="hero-content">
+        <h2>Join Us to Green the Earth</h2>
+        <p>
+          Our mission is to plant 100,000 mangrove trees to restore coastlines,
+          protect wildlife, and create a sustainable planet for the next
+          generation.
+        </p>
+        <a href="#donate" class="btn">Get Involved</a>
+      </div>
+      <img
+        src="https://images.unsplash.com/photo-1520333764090-778d6dc95ec3?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fG1hbmdyb3ZlfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=500"
+        alt="Mangrove forest"
+      />
+    </section>
+
+    <section id="about" class="card">
+      <img
+        src="https://images.unsplash.com/photo-1529990067917-afa069925efa?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=774"
+        alt="People planting mangroves"
+      />
+      <div>
+        <h3>About the Campaign</h3>
+        <p>
+          Mangroves are small trees that grow along coastlines. They are
+          powerful protectors of nature — reducing floods, storing carbon, and
+          sheltering thousands of species. Our goal is to bring communities
+          together to replant and protect these coastal forests.
+        </p>
+      </div>
+    </section>
+
+    <section id="impact" class="card">
+      <h3>Our Impact So Far</h3>
+      <p>
+        Thanks to our volunteers and supporters, we’ve already planted over
+        <strong>25,000 mangroves</strong> across several coastal villages in
+        Indonesia. Each tree makes a difference — reducing erosion and
+        protecting marine life.
+      </p>
+      <img
+        src="https://plus.unsplash.com/premium_photo-1680322468761-fe481ded0406?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDZ8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&q=60&w=500"
+        alt="Mangrove coastline"
+      />
+    </section>
+
+    <section id="how" class="card">
+      <h3>How It Works</h3>
+      <p>
+        Every contribution and volunteer counts! Here’s how we make it happen:
+      </p>
+      <ul>
+        <li>
+          <strong>1.</strong> Collect mangrove seeds and nurture them in
+          community nurseries.
+        </li>
+        <li>
+          <strong>2.</strong> Work with local volunteers to plant the trees
+          along coastlines.
+        </li>
+        <li>
+          <strong>3.</strong> Monitor growth and provide care for 3 years to
+          ensure survival.
+        </li>
+      </ul>
+    </section>
+
+    <section id="donate" class="donate card">
+      <h3>Support Our Mission</h3>
+      <p>
+        Your donation helps us provide seedlings, tools, and community training.
+        Even a small amount can make a big difference.
+      </p>
+      <a href="#" class="btn">Donate Now</a>
+    </section>
+
+    <section id="contact" class="card">
+      <h3>Contact Us</h3>
+      <p>
+        We’d love to hear from you! Fill out the form below to ask questions or
+        join as a volunteer.
+      </p>
+
+      <form
+        onsubmit="event.preventDefault(); alert('Thank you! We will contact you soon.');"
+      >
+        <label for="name">Full Name</label>
+        <input
+          type="text"
+          id="name"
+          name="name"
+          placeholder="Your name"
+          required
+        />
+
+        <label for="email">Email Address</label>
+        <input
+          type="email"
+          id="email"
+          name="email"
+          placeholder="you@example.com"
+          required
+        />
+
+        <label for="message">Message</label>
+        <textarea
+          id="message"
+          name="message"
+          rows="5"
+          placeholder="Write your message..."
+          required
+        ></textarea>
+
+        <button type="submit" class="btn">Send Message</button>
+      </form>
+    </section>
+
+    <footer>
+      <p>&copy; 2025 Plant 100k Mangroves | Together for a Greener Future</p>
+    </footer>
+  </body>
+</html>
