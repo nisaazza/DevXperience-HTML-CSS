@@ -18,6 +18,17 @@ Website ini berisi beberapa bagian utama:
 Tampilan telah diuji agar tetap rapi di layar laptop dan ponsel.
 
 ---
+## 🤖 Bantuan AI dalam Pengembangan
+Dalam proses styling, saya memanfaatkan **ChatGPT (OpenAI)** untuk membantu eksplorasi ide desain dan optimalisasi CSS.  
+Namun, seluruh hasil output AI saya pelajari dan sesuaikan kembali agar sesuai dengan ketentuan tugas.
+
+Beberapa contoh perintah (prompt) yang digunakan:
+> “Tolong buatkan style.css untuk halaman kampanye Plant 100,000 Mangroves agar tampil modern, responsif, dan bertema hijau alami.”  
+>  
+> “Ubah kombinasi font agar menggunakan serif dan sans-serif supaya tampil elegan.”  
+>  
+> “Sesuaikan layout bagian Our Impact agar gambar dan teks sejajar dengan proporsi yang serasi.”
+--
 ## 🧠 Pembelajaran yang Diperoleh
 Dari proyek ini, saya mendapatkan pemahaman lebih mendalam tentang:
 - Penerapan CSS eksternal dengan HTML.  
