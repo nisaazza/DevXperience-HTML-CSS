@@ -28,7 +28,8 @@ Beberapa contoh perintah (prompt) yang digunakan:
 > “Ubah kombinasi font agar menggunakan serif dan sans-serif supaya tampil elegan.”  
 >  
 > “Sesuaikan layout bagian Our Impact agar gambar dan teks sejajar dengan proporsi yang serasi.”
---
+
+---
 ## 🧠 Pembelajaran yang Diperoleh
 Dari proyek ini, saya mendapatkan pemahaman lebih mendalam tentang:
 - Penerapan CSS eksternal dengan HTML.  
