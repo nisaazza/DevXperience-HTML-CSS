@@ -1,10 +1,10 @@
-# Mangrove-Campaign 
-Proyek ini berfokus pada penerapan styling menggunakan CSS untuk mengubah tampilan halaman web agar terlihat menarik, modern, dan komunikatif 🌱.
-
-Website ini bertemakan kampanye lingkungan yang mengajak masyarakat untuk berpartisipasi dalam penanaman **100.000 pohon mangrove** sebagai langkah nyata menjaga ekosistem pesisir.  
-Melalui proyek ini, saya berusaha menghadirkan tampilan web yang tidak hanya informatif, tetapi juga memberikan kesan alami, bersih, dan profesional.
+# 🌱 Mangrove-Campaign 
+Proyek ini berfokus pada penerapan styling menggunakan CSS untuk mengubah tampilan halaman web agar terlihat menarik, modern, dan komunikatif.
 ---
 ## 🧾 Deskripsi Proyek
+Website ini bertemakan kampanye lingkungan yang mengajak masyarakat untuk berpartisipasi dalam penanaman **100.000 pohon mangrove** sebagai langkah nyata menjaga ekosistem pesisir.  
+Melalui proyek ini, saya berusaha menghadirkan tampilan web yang tidak hanya informatif, tetapi juga memberikan kesan alami, bersih, dan profesional.
+
 Website ini berisi beberapa bagian utama:
 - **Home (Hero Section)** — pengenalan kampanye dan ajakan berpartisipasi.
 - **About** — penjelasan mengenai pentingnya hutan mangrove.
@@ -13,8 +13,10 @@ Website ini berisi beberapa bagian utama:
 - **Donate** — ajakan berdonasi untuk mendukung kegiatan.
 - **Contact** — form untuk menghubungi tim kampanye.
 ---
-## 📱 Responsif
+## 💻 Responsivitas
+
 Tampilan telah diuji agar tetap rapi di layar laptop dan ponsel.
+
 ---
 ## 🧠 Pembelajaran yang Diperoleh
 Dari proyek ini, saya mendapatkan pemahaman lebih mendalam tentang:
@@ -24,5 +26,5 @@ Dari proyek ini, saya mendapatkan pemahaman lebih mendalam tentang:
 - Prinsip desain web yang responsif dan estetis.  
 - Pentingnya konsistensi visual dalam membangun identitas kampanye digital.
 ---
-> “Design is not just what it looks like and feels like — design is how it works.”  
+> “Every small action holds a great impact — like a single mangrove that sustains an entire ecosystem.”
 > 🌱 Bersama kita tumbuhkan 100.000 mangrove untuk masa depan yang lebih hijau.
